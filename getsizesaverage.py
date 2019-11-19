@@ -1,4 +1,4 @@
-# get all real execution times and get their averages and get the standard deviation of all averages
+# get average sizes of each video 
 
 import os
 import statistics
