@@ -1,2 +1,2 @@
 # Codes-for-Benchmarking
- Codes used for video transcoding
+ Codes used for video transcoding on heterogenous platforms
